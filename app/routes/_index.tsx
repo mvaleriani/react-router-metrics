@@ -1,4 +1,4 @@
-import type { Route } from "./+types/home";
+import type { Route } from "./+types/_index.tsx";
 import { Welcome } from "../welcome/welcome";
 
 export function meta({}: Route.MetaArgs) {
